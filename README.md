@@ -9,10 +9,10 @@ To better illustrate the **interactive nature of the Power BI dashboard**, you c
 
 This GIF demonstrates the functionality of the **Main** tab and **Filter/Details** tab showcasing how users can interact with the dashboard to explore data related to Movies and Tv Shows.
 
-### Content quantity type X Year Overview
+### Content quantity type x Year Overview
 ![Content quantity type X Year Overview](https://github.com/Kanvas33/Power-BI-Netflix-English/blob/main/Content%20Quantity%20x%20Year.gif)
 
-This GIF illustrates the analysis of content quantity by type and year, **along with other relevant metrics**.
+This GIF illustrates the analysis of content quantity by type and year, **along with other relevant metrics(e.g. Top 5 genres and Top 7 countries by content),**.
 
 ### Type quantity/Percentage Overview
 ![Type quantity and Percentage Overview](https://github.com/Kanvas33/Power-BI-Netflix-English/blob/main/Type%20x%20Content%20Quantity.gif)
