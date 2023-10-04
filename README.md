@@ -12,7 +12,7 @@ This GIF demonstrates the functionality of the **Main** tab and **Filter/Details
 ### Content quantity type x Year Overview
 ![Content quantity type X Year Overview](https://github.com/Kanvas33/Power-BI-Netflix-English/blob/main/Content%20Quantity%20x%20Year.gif)
 
-This GIF illustrates the analysis of content quantity by type and year, **along with other relevant metrics(e.g. Top 5 genres and Top 7 countries by content),**.
+This GIF illustrates the analysis of content quantity by type and year, **along with other relevant metrics (e.g., Top 5 genres and Top 7 countries by content)**.
 
 ### Type quantity/Percentage Overview
 ![Type quantity and Percentage Overview](https://github.com/Kanvas33/Power-BI-Netflix-English/blob/main/Type%20x%20Content%20Quantity.gif)
@@ -63,11 +63,6 @@ In **conclusion**, this Netflix Interactive Dashboard using Microsoft Power BI o
 
 Feel free to explore this repository and learn more about the project and its implementation. 
 
-**If you have any questions or feedback, please don't hesitate to reach out here or at jeff.farias@gmail.com**.
-
 Happy analyzing, and enjoy your Netflix journey!
 
-
-
-
-
+**If you have any questions or feedback, please don't hesitate to reach out here or at jeff.farias@gmail.com**.
