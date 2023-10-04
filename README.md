@@ -4,6 +4,8 @@
 
 To better illustrate the **interactive nature of the Power BI dashboard**, you can view the **GIFs** below:
 
+<img src="https://github.com/Kanvas33/Power-BI-Netflix-English/blob/main/General%20Overview.gif" width="800" height="600">
+
 ### General Overview
 ![Main Tabs Overview](https://github.com/Kanvas33/Power-BI-Netflix-English/blob/main/General%20Overview.gif)
 
