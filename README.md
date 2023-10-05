@@ -1,4 +1,6 @@
 <a href="https://powerbi.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" alt="powerbi" width="50" height="50"/> </a>
+<a href="https://powerquery.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://www.myonlinetraininghub.com/wp-content/uploads/2016/02/power_query_thumb.png" alt="powerbi" width="50" height="50"/> </a>
+
 # Netflix Interactive Dashboard using Microsoft Power BI(English)
 
 ## Interactive Dashboard Illustrations - GIFs 
